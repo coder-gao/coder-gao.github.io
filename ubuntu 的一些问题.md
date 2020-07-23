@@ -10,4 +10,4 @@ resolvconf -u
 
 https://blog.csdn.net/YLMF_yyz/java/article/details/46646449
 ```
-* 使用NAT
+* 使用NAT连接, 以便使用 wireshark 进行抓包
